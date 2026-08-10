@@ -458,21 +458,17 @@ git commit -m "Add new feature"
 Push the branch
 git push origin feature/new-feature
 Create a Pull Request
-📄 License
 
+📄 License
 This project is intended for learning, experimentation, and research purposes.
 
 ⭐ Support
-
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
-👨‍💻 Author
-
+**👨‍💻 Author
 Nitesh Verma
-
 Software Test Engineer | QA | Automation | AI & Agentic Systems
-
 GitHub: https://github.com/NK0906
-
+**
 Building AI systems is not only about making models smarter —
 it's about making them reliable, testable, observable, and safe.
